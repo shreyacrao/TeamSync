@@ -1,3 +1,5 @@
+Live Demo: https://team-sync-kohl-psi.vercel.app
+
 # TeamSync — Real-Time Team Collaboration & Chat Platform
 
 A MERN-stack chat application inspired by Cisco Webex/Slack: public channels, direct messages,
