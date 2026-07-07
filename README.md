@@ -1,9 +1,13 @@
-Live Demo: https://team-sync-kohl-psi.vercel.app
-
 # TeamSync — Real-Time Team Collaboration & Chat Platform
 
 A MERN-stack chat application inspired by Cisco Webex/Slack: public channels, direct messages,
 real-time messaging via Socket.io, online/offline presence, and typing indicators.
+
+## Live Demo
+https://team-sync-kohl-psi.vercel.app
+
+## GitHub Repository
+https://github.com/shreyacrao/TeamSync
 
 ## Tech Stack
 - **Frontend:** React (Vite), React Router, Socket.io-client, Axios, plain CSS
